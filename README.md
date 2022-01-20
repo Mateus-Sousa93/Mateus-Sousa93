@@ -15,6 +15,8 @@
 
 - 📱Click on the icons below to contact me
 
+ ##
+
 **Languages and Tools:**
 
 <div style="display: inline_block" ><br>
@@ -26,7 +28,6 @@
   <img align="center" alt="Mateus-CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Mateus-mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   
-  
   ##
   
   
@@ -36,21 +37,21 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Sousa93&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-  
-  
   ##
- Click on the icons below to contact me:
-<div> 
  
+
+ **My contacts:**
+  
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matteussousa.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
-  #### Top Repositories
   
    ![Snake animation](https://github.com/Mateus-Sousa93/Mateus-Sousa93/blob/output/github-contribution-grid-snake.svg)
+
+  
  
-</div>
+
     
