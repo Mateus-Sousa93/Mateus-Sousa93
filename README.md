@@ -9,20 +9,15 @@
 
 - 💬Ask me about : Anything, what I don't know, we'll find out.
 
-- 📫How to reach me: mateussousa.dev@gmail.com
+- 📫How to reach me: Click on the icons below to contact me
 
 - 😄Pronouns: human 😄
 
 - 📱Click on the icons below to contact me
 
 **Languages and Tools:**
-<div >
-  <a href="https://github.com/Mateus-Sousa93">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Sousa93&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Sousa93&layout=compact&langs_count=7&theme=react"/>
-</div>
 
-  <div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" ><br>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -33,7 +28,18 @@
   
   
   ##
- 
+  
+  
+<div align="center">
+  <a href="https://github.com/Mateus-Sousa93">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Sousa93&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Sousa93&layout=compact&langs_count=7&theme=react"/>
+</div>
+
+  
+  
+  ##
+ Click on the icons below to contact me:
 <div> 
  
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
