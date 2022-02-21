@@ -11,7 +11,7 @@ I'm still at the beginning of this journey as a developer, if you see something 
 
 - 📫How to reach me: Click on the icons below to contact me
 
-- 😄Pronouns: human
+
 
 
 
