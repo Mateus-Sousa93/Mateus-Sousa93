@@ -1,7 +1,7 @@
-### Hi! I'm Mateus Cesar 👋
+## Hi! I'm Mateus Cesar 👋
 
 
-** I'm a Brazilian student of Software Engineering, and I'm studying the MERN stack (MongoDB, Express, React, Node).
+####  i'm from brazil, and a software engineering student, after studying the mern stack and i'm a student for specialization in back end developer more specifically using the java language. If you have a question or suggestion, please contact me. and sorry for my english i'm still learning
 I'm still at the beginning of this journey as a developer, if you see something I can improve in my code I'll be grateful. 😁
 
 
@@ -19,14 +19,19 @@ I'm still at the beginning of this journey as a developer, if you see something 
 
 **Languages and Tools:**
 
-<div style="display: inline_block, margin:100px" ><br>
-  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
- <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Mateus-mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Mateus-git" height="30" width="40" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"  />
+<div align="center" style="display: inline_block, margin:150px" ><br>
+  <img align="center" alt="Mateus-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mateus-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mateus-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Mateus-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+ <img align="center" alt="Mateus-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Mateus-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Mateus-git"height="40" width="50"<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"  />
+   <img align="center" alt="Mateus-git"height="40" width="50" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  />
+   <img align="center" alt="Mateus-git"height="40" width="50" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+   <img align="center" alt="Mateus-git" height="40" width="50" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+   <img align="center" alt="Mateus-git"height="40" width="50" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
+   
   
   ##
   
