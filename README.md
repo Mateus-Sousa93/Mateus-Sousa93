@@ -22,10 +22,6 @@
 
 ##
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/Mateus-Sousa93" alt="Mateus Cesar's Github contribution chart" width="100%"/>
-</div>
-
 ##
 
 **My contacts:**
